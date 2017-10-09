@@ -56,8 +56,8 @@ reproducibility of research results (e.g., by open-sourcing their code).
 There are two tracks for submissions:
 
 + **Research Track:** We accept submissions on novel results. The submissions should be formated using
-a template from any major conferences (NIPS, ICML, etc.). A maximum of 4 pages are allowed for this type of
-submission
+a template from any major conferences (NIPS, ICML, etc.). A maximum of 4 pages are allowed for the main body 
+of this type of submission, and in addition, an unlimited number of pages are allowed for references and well-marked appendix.
 + **Encore Track:** We also accept papers that have already been published. We do not have a page limit
 on this type of submissions. In the submission site, please use the **Keyword** field to provide the information
 on the venue where the submission was originally published.
