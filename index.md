@@ -33,7 +33,7 @@ cross-community collaborations.
        <a href="https://www.cs.purdue.edu/homes/alanqi/">
          <div class="instructorphoto"><img src="assets/people/Yuan_Qi.jpg"/></div>
          <div>Alan Qi</div>
-         <div>FinTech</div>
+         <div>Ant Financial</div>
        </a>
      </div>
      <div class="instructor">
