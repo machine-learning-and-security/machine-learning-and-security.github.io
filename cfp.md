@@ -62,7 +62,7 @@ of this type of submission, and in addition, an unlimited number of pages are al
 on this type of submissions. In the submission site, please use the **Keyword** field to provide the information
 on the venue where the submission was originally published.
 
-We have two rounds of rolling deadlines:
+We have two rounds of rolling deadlines (Anywhere On Earch):
 + **Round 1**: deadline for submission **October 22nd, 2017**; notification **November 3rd, 2017**
 + **Round 2**: deadline for submission **November 3rd, 2017**; notification **November 17th, 2017**
 
