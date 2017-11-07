@@ -87,6 +87,8 @@ Nicholas Carlini (UC Berkeley)
 
 Xinyun Chen (UC Berkeley)
 
+Earlence Fernandes (University of Washington)
+
 Bo Li (UC Berkeley)
 
 Chang Liu (UC Berkeley, co-chair)
@@ -94,6 +96,8 @@ Chang Liu (UC Berkeley, co-chair)
 Zhuang Liu (UC Berkeley)
 
 Nicolas Papernot (Pennsylvania State University)
+
+Richard Shin (UC Berkeley)
 
 Jacob Steinhardt (Stanford University, co-chair)
 
