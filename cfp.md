@@ -99,7 +99,7 @@ Jacob Steinhardt (Stanford University, co-chair)
 
 Florian Tramer (Stanford University)
 
-Xinyun Xing (Penn State)
+Xinyun Xing (Pennsylvania State University)
 
 Weilin Xu (University of Virginia)
 
