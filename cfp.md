@@ -91,11 +91,15 @@ Bo Li (UC Berkeley)
 
 Chang Liu (UC Berkeley, co-chair)
 
+Zhuang Liu (UC Berkeley)
+
 Nicolas Papernot (Pennsylvania State University)
 
 Jacob Steinhardt (Stanford University, co-chair)
 
 Florian Tramer (Stanford University)
+
+Xinyun Xing (Penn State)
 
 Weilin Xu (University of Virginia)
 
