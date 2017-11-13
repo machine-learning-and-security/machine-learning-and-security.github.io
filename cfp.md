@@ -64,7 +64,7 @@ on the venue where the submission was originally published.
 
 We have two rounds of rolling deadlines (Anywhere On Earth):
 + **Round 1**: deadline for submission **October 22nd, 2017**; notification **November** ~~(3rd)~~ **6th, 2017**
-+ **Round 2**: deadline for submission **November** ~~(3rd)~~ **6th, 2017**; notification **November 17th, 2017**
++ **Round 2**: deadline for submission **November** ~~(3rd)~~ **6th, 2017**; notification **November ~~(17th)~~ **21, 2017**
 
 Contact [Chang Liu](<mailto:liuchang@eecs.berkeley.edu>) for any questions.
 
