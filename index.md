@@ -81,7 +81,7 @@ cross-community collaborations.
 
 The [Call for Papers](cfp.md) is available.
 
-# Schedule (tentative)
+# Schedule
 
 9:00 - Opening Remarks
 
