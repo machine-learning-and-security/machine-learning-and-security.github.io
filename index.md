@@ -37,22 +37,12 @@ cross-community collaborations.
        </a>
      </div>
      <div class="instructor">
-       <a href="http://www.ccs.neu.edu/home/alina/">
-         <div class="instructorphoto"><img src="assets/people/AlinaOprea.jpg"/></div>
-         <div>Alina Oprea</div>
-         <div>Northeastern University</div>
-       </a>
-     </div>
-     <div class="instructor">
        <a href="http://www.allandafoe.com/">
          <div class="instructorphoto"><img src="assets/people/dafoe.jpg"/></div>
          <div>Allan Dafoe</div>
          <div>Yale University</div>
        </a>
      </div>
-</div>
-
-<div class="instructors">
      <div class="instructor">
        <a href="http://theory.stanford.edu/~barrett/">
          <div class="instructorphoto"><img src="assets/people/ClarkBarrett.jpg"/></div>
@@ -60,6 +50,9 @@ cross-community collaborations.
          <div>Stanford University</div>
        </a>
      </div>
+</div>
+
+<div class="instructors">
      <div class="instructor">
        <a href="https://www.microsoft.com/en-us/research/people/donaldbr/">
          <div class="instructorphoto"><img src="assets/people/onstage.jpg"/></div>
@@ -90,25 +83,25 @@ The [Call for Papers](cfp.md) is available.
 
 # Schedule (tentative)
 
-8:40 - Opening Remarks
+9:00 - Opening Remarks
 
-**Session 1: Machine Learning, Cybersecurity, and Society**
+**Session 1: Secure Machine Learning in Practice**
 
-9:00 - Invited Talk #1: *TBD* by [Allan Dafoe](http://www.allandafoe.com)
+9:15 - Invited Talk #1: *AI Applications in Security at Ant Financial* by [Alan Qi](https://www.cs.purdue.edu/homes/alanqi/)
 
-9:30 - Contributed Talk #1
+9:45 - Contributed Talk #1: *A Word Graph Approach for Dictionary Detection and Extraction in DGA Domain Names* by Mayana Pereira, Shaun Coleman, Martine De Cock, Bin Yu and Anderson Nascimento
 
-9:45 - Poster Spotlights #1
+10:00 - Contributed Talk #2: *Practical Machine Learning for Cloud Intrusion Detection* by Ram Shankar Siva Kumar, Andrew Wicker and Matt Swann
 
-10:00 - Coffee Break
+10:15 - Poster Spotlights #1
 
-**Session 2: Secure Machine Learning in Practice**
+10:30 - Coffee Break
 
-10:30 - Invited Talk #2: *TBD* by [Alina Oprea](http://www.ccs.neu.edu/home/alina/)
+**Session 2: Machine Learning, Cybersecurity, and Society**
 
-11:00 - Contributed Talk #2
+11:00 - Invited Talk #2: *International Security and the AI Revolution by* by [Allan Dafoe](http://www.allandafoe.com)
 
-11:15 - Invited Talk #3: *TBD* by [Alan Qi](https://www.cs.purdue.edu/homes/alanqi/)
+11:30 - Contributed Talk #3: *BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain* by Tianyu Gu, Brendan Dolan-Gavitt and Siddharth Garg
 
 11:45 - Poster Spotlights #2
 
@@ -116,23 +109,21 @@ The [Call for Papers](cfp.md) is available.
 
 **Session 3: Security Vulnerabilities of Machine Learning Systems**
 
-1:15 - Invited Talk #4: *TBD* by [Ian Goodfellow](https://research.google.com/pubs/105214.html)
+1:30 - Invited Talk #4: *Defending Against Adversarial Examples* by [Ian Goodfellow](https://research.google.com/pubs/105214.html)
 
-1:45 - Contributed Talk #3
+2:00 - Contributed Talk #4: *Provable defenses against adversarial examples via the convex outer adversarial polytope* by	J. Zico Kolter and Eric Wong
 
-2:00 - Poster Session/Break
+2:15 - Invited Talk #5: *Games People Play (With Bots)* by [Donald Brinkman](https://www.microsoft.com/en-us/research/people/donaldbr/)
 
-**Session 4: Definitions of Secure Learning**
+2:45 - Contributed Demo: *Synthesizing Robust Adversarial Examples* by	Anish Athalye, Logan Engstrom, Andrew Ilyas and Kevin Kwok
 
-2:45 - Invited Talk #5: *TBD* by [Moritz Hardt](http://mrtz.org/)
+3:00 - Poster Session/Break
 
-3:15 - Contributed Talk #4
+**Session 4: Formal Definitions and Formal Verification**
 
-3:30 - Invited Talk #6: *TBD* by [Donald Brinkman](https://www.microsoft.com/en-us/research/people/donaldbr/)
+3:45 - Invited Talk #5: *Safety beyond Security: Societal Challenges for Machine Learning* by [Moritz Hardt](http://mrtz.org/)
 
-**Session 5: Verifying Machine Learning Code**
-
-4:00 - Invited Talk #7: *TBD* by [Clark Barrett](http://theory.stanford.edu/~barrett/)
+4:15 - Invited Talk #6: *Towards Verification of Deep Neural Networks* by [Clark Barrett](http://theory.stanford.edu/~barrett/)
 
 
 # Organizer
