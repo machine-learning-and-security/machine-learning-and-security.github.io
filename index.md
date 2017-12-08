@@ -163,10 +163,12 @@ Session Chair: Nicolas Papernot
 
 Session Chair: Bo Li
 
-3:45 - Invited Talk #5: *Safety beyond Security: Societal Challenges for Machine Learning* by [Moritz Hardt](http://mrtz.org/)
+3:45 - Invited Talk #5: *Privacy-preserving Mechanisms for Correlated Data* by 
+Kamalika Chaudhuri
 
-4:15 - Invited Talk #6: *Towards Verification of Deep Neural Networks* by [Clark Barrett](http://theory.stanford.edu/~barrett/)
+4:10 - Invited Talk #6: *Towards Verification of Deep Neural Networks* by [Clark Barrett](http://theory.stanford.edu/~barrett/)
 
+4:40 - Invited Talk #7: *TBD* by Ludwig Schmidt
 
 # Organizer
 
