@@ -129,7 +129,7 @@ Session Chair: Jacob Steinhardt
 
 * *Interpretation of Neural Networks is Fragile* by Amirata Ghorbani 
 
-* *Thermometer Encoding: One Hot way to resist Adversarial Examples* by Jacob Buckman 
+* *Thermometer Encoding: One Hot way to resist Adversarial Examples* by Aurko Roy 
 
 * *Adversarial Patch* by Tom Brown
 
