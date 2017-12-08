@@ -164,7 +164,7 @@ Session Chair: Nicolas Papernot
 Session Chair: Bo Li
 
 3:45 - Invited Talk #5: *Privacy-preserving Mechanisms for Correlated Data* by 
-Kamalika Chaudhuri
+[Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/)
 
 4:10 - Invited Talk #6: *Towards Verification of Deep Neural Networks* by [Clark Barrett](http://theory.stanford.edu/~barrett/)
 
