@@ -131,7 +131,7 @@ Session Chair: Jacob Steinhardt
 
 * *Thermometer Encoding: One Hot way to resist Adversarial Examples* by Aurko Roy 
 
-* *Adversarial Patch* by Tom Brown
+* *Adversarial Patch* by Justin Gilmer
 
 * *Distributionally Robust Deep Learning as a Generalization of Adversarial Training* by Matthew Staib
 
