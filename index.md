@@ -26,6 +26,10 @@ area, as well as to clarify the foundations of secure ML and
 chart out important directions for future work and
 cross-community collaborations.
 
+# Room
+
+Shoreline room in Hyatt Hotel
+
 # Invited Speakers
 
 <div class="instructors">
@@ -95,6 +99,20 @@ The [Call for Papers](cfp.md) is available.
 
 10:15 - Poster Spotlights #1
 
+* *Verifying Properties of Binarized Deep Neural Networks* by Nina Narodytska
+
+* *Cascade Adversarial Machine Learning Regularized with a Unified Embedding* by Taesik Na
+
+* *ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models* by Huan Zhang
+
+* *DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning* by Min Du
+
+* *Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks* by Yanjun Qi
+
+* *A Rotation and a Translation Suffice: Fooling CNNs with Simple Transformations* by Dimitris Tsipras
+
+* *A Neural-Symbolic Approach to Design of CAPTCHA* by Qiuyuan Huang
+
 10:30 - Coffee Break
 
 **Session 2: Machine Learning, Cybersecurity, and Society**
@@ -104,6 +122,22 @@ The [Call for Papers](cfp.md) is available.
 11:30 - Contributed Talk #3: *BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain* by Tianyu Gu, Brendan Dolan-Gavitt and Siddharth Garg
 
 11:45 - Poster Spotlights #2
+
+* *Interpretation of Neural Networks is Fragile* by Amirata Ghorbani 
+
+* *Thermometer Encoding: One Hot way to resist Adversarial Examples* by Jacob Buckman 
+
+* *Adversarial Patch* by Tom Brown
+
+* *Distributionally Robust Deep Learning as a Generalization of Adversarial Training* by Matthew Staib
+
+* *Certifiable Distributional Robustness with Principled Adversarial Training* Aman Sinha
+
+* *Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation* by Matthias Hein
+
+* *Query-limited Black-box Attacks to Classifiers* by Suya FNU
+
+* *JPEG-resistant Adversarial Images* by Richard Shin
 
 12:00 - Lunch
 
