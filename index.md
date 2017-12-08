@@ -123,7 +123,7 @@ Session Chair: Jacob Steinhardt
 
 11:00 - Invited Talk #2: *International Security and the AI Revolution by* by [Allan Dafoe](http://www.allandafoe.com)
 
-11:30 - Contributed Talk #3: *BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain* by Tianyu Gu, Brendan Dolan-Gavitt and Siddharth Garg
+11:30 - Contributed Talk #3 (<span style="color:red">Best Attack Paper</span>): *BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain* by Tianyu Gu, Brendan Dolan-Gavitt and Siddharth Garg 
 
 11:45 - Poster Spotlights #2
 
@@ -151,7 +151,7 @@ Session Chair: Nicolas Papernot
 
 1:30 - Invited Talk #4: *Defending Against Adversarial Examples* by [Ian Goodfellow](https://research.google.com/pubs/105214.html)
 
-2:00 - Contributed Talk #4: *Provable defenses against adversarial examples via the convex outer adversarial polytope* by	J. Zico Kolter and Eric Wong
+2:00 - Contributed Talk #4 (<span style="color:red">Best Defense Paper</span>): *Provable defenses against adversarial examples via the convex outer adversarial polytope* by	J. Zico Kolter and Eric Wong
 
 2:15 - Invited Talk #5: *Games People Play (With Bots)* by [Donald Brinkman](https://www.microsoft.com/en-us/research/people/donaldbr/)
 
