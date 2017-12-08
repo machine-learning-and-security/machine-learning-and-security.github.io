@@ -168,7 +168,7 @@ Session Chair: Bo Li
 
 4:10 - Invited Talk #6: *Towards Verification of Deep Neural Networks* by [Clark Barrett](http://theory.stanford.edu/~barrett/)
 
-4:40 - Invited Talk #7: *TBD* by [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/)
+4:40 - Invited Talk #7: *Adversarially Robust Optimization and Generalization* by [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/)
 
 # Organizer
 
