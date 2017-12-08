@@ -28,7 +28,7 @@ cross-community collaborations.
 
 # Room
 
-Shoreline room in Hyatt Hotel
+Shoreline room in Hyatt Regency Hotel
 
 # Invited Speakers
 
