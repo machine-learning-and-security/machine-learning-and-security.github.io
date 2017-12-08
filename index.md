@@ -91,6 +91,8 @@ The [Call for Papers](cfp.md) is available.
 
 **Session 1: Secure Machine Learning in Practice**
 
+Session Chair: Chang Liu
+
 9:15 - Invited Talk #1: *AI Applications in Security at Ant Financial* by [Alan Qi](https://www.cs.purdue.edu/homes/alanqi/)
 
 9:45 - Contributed Talk #1: *A Word Graph Approach for Dictionary Detection and Extraction in DGA Domain Names* by Mayana Pereira, Shaun Coleman, Martine De Cock, Bin Yu and Anderson Nascimento
@@ -116,6 +118,8 @@ The [Call for Papers](cfp.md) is available.
 10:30 - Coffee Break
 
 **Session 2: Machine Learning, Cybersecurity, and Society**
+
+Session Chair: Jacob Steinhardt
 
 11:00 - Invited Talk #2: *International Security and the AI Revolution by* by [Allan Dafoe](http://www.allandafoe.com)
 
@@ -143,6 +147,8 @@ The [Call for Papers](cfp.md) is available.
 
 **Session 3: Security Vulnerabilities of Machine Learning Systems**
 
+Session Chair: Nicolas Papernot
+
 1:30 - Invited Talk #4: *Defending Against Adversarial Examples* by [Ian Goodfellow](https://research.google.com/pubs/105214.html)
 
 2:00 - Contributed Talk #4: *Provable defenses against adversarial examples via the convex outer adversarial polytope* by	J. Zico Kolter and Eric Wong
@@ -154,6 +160,8 @@ The [Call for Papers](cfp.md) is available.
 3:00 - Poster Session/Break
 
 **Session 4: Formal Definitions and Formal Verification**
+
+Session Chair: Bo Li
 
 3:45 - Invited Talk #5: *Safety beyond Security: Societal Challenges for Machine Learning* by [Moritz Hardt](http://mrtz.org/)
 
