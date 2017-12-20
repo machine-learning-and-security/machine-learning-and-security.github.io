@@ -97,7 +97,8 @@ Session Chair: Chang Liu
 
 9:45 - Contributed Talk #1: *A Word Graph Approach for Dictionary Detection and Extraction in DGA Domain Names* by Mayana Pereira, Shaun Coleman, Martine De Cock, Bin Yu and Anderson Nascimento
 
-10:00 - Contributed Talk #2: *[Practical Machine Learning for Cloud Intrusion Detection](papers/mlsec17_paper_3.pdf)* by Ram Shankar Siva Kumar, Andrew Wicker and Matt Swann
+10:00 - Contributed Talk #2: *[Practical Machine Learning for Cloud Intrusion Detection](papers/mlsec17_paper_3.pdf)* by Ram Shankar Siva Kumar, Andrew Wicker and Matt Swann 
+[[Slides]](slides/ram-cloud-intrusion-detection.pptx)
 
 10:15 - Poster Spotlights #1
 
@@ -121,7 +122,7 @@ Session Chair: Chang Liu
 
 Session Chair: Jacob Steinhardt
 
-11:00 - Invited Talk #2: *International Security and the AI Revolution by* by [Allan Dafoe](http://www.allandafoe.com)  [[Slides]](Allan-Dafoe-NIPS-s.pdf)
+11:00 - Invited Talk #2: *International Security and the AI Revolution by* by [Allan Dafoe](http://www.allandafoe.com)  [[Slides]](slides/Allan-Dafoe-NIPS-s.pdf)
 
 11:30 - Contributed Talk #3 (<span style="color:red">Best Attack Paper</span>): *[BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](papers/mlsec17_paper_51.pdf)* by Tianyu Gu, Brendan Dolan-Gavitt and Siddharth Garg 
 
