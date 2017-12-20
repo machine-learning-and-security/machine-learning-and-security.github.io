@@ -149,7 +149,7 @@ Session Chair: Jacob Steinhardt
 
 Session Chair: Nicolas Papernot
 
-1:30 - Invited Talk #4: *Defending Against Adversarial Examples* by [Ian Goodfellow](https://research.google.com/pubs/105214.html)
+1:30 - Invited Talk #4: *Defending Against Adversarial Examples* by [Ian Goodfellow](https://research.google.com/pubs/105214.html) [[Slides]](slides/ian-goodfellow-defending.pdf)
 
 2:00 - Contributed Talk #4 (<span style="color:red">Best Defense Paper</span>): *[Provable defenses against adversarial examples via the convex outer adversarial polytope](papers/mlsec17_paper_42.pdf)* by	J. Zico Kolter and Eric Wong
 
