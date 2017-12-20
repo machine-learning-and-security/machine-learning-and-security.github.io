@@ -97,7 +97,7 @@ Session Chair: Chang Liu
 
 9:45 - Contributed Talk #1: *A Word Graph Approach for Dictionary Detection and Extraction in DGA Domain Names* by Mayana Pereira, Shaun Coleman, Martine De Cock, Bin Yu and Anderson Nascimento
 
-10:00 - Contributed Talk #2: *Practical Machine Learning for Cloud Intrusion Detection* by Ram Shankar Siva Kumar, Andrew Wicker and Matt Swann
+10:00 - Contributed Talk #2: *[Practical Machine Learning for Cloud Intrusion Detection](papers/mlsec17_paper_3.pdf)* by Ram Shankar Siva Kumar, Andrew Wicker and Matt Swann
 
 10:15 - Poster Spotlights #1
 
@@ -121,9 +121,9 @@ Session Chair: Chang Liu
 
 Session Chair: Jacob Steinhardt
 
-11:00 - Invited Talk #2: *International Security and the AI Revolution by* by [Allan Dafoe](http://www.allandafoe.com)
+11:00 - Invited Talk #2: *International Security and the AI Revolution by* by [Allan Dafoe](http://www.allandafoe.com)  [[Slides]](Allan-Dafoe-NIPS-s.pdf)
 
-11:30 - Contributed Talk #3 (<span style="color:red">Best Attack Paper</span>): *BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain* by Tianyu Gu, Brendan Dolan-Gavitt and Siddharth Garg 
+11:30 - Contributed Talk #3 (<span style="color:red">Best Attack Paper</span>): *[BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](papers/mlsec17_paper_51.pdf)* by Tianyu Gu, Brendan Dolan-Gavitt and Siddharth Garg 
 
 11:45 - Poster Spotlights #2
 
@@ -135,7 +135,7 @@ Session Chair: Jacob Steinhardt
 
 * *Distributionally Robust Deep Learning as a Generalization of Adversarial Training* by Matthew Staib
 
-* *Certifiable Distributional Robustness with Principled Adversarial Training* Aman Sinha
+* *Certifiable Distributional Robustness with Principled Adversarial Training* by Aman Sinha
 
 * *Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation* by Matthias Hein
 
@@ -151,11 +151,11 @@ Session Chair: Nicolas Papernot
 
 1:30 - Invited Talk #4: *Defending Against Adversarial Examples* by [Ian Goodfellow](https://research.google.com/pubs/105214.html)
 
-2:00 - Contributed Talk #4 (<span style="color:red">Best Defense Paper</span>): *Provable defenses against adversarial examples via the convex outer adversarial polytope* by	J. Zico Kolter and Eric Wong
+2:00 - Contributed Talk #4 (<span style="color:red">Best Defense Paper</span>): *[Provable defenses against adversarial examples via the convex outer adversarial polytope](papers/mlsec17_paper_42.pdf)* by	J. Zico Kolter and Eric Wong
 
 2:15 - Invited Talk #5: *Games People Play (With Bots)* by [Donald Brinkman](https://www.microsoft.com/en-us/research/people/donaldbr/)
 
-2:45 - Contributed Demo: *Synthesizing Robust Adversarial Examples* by	Anish Athalye, Logan Engstrom, Andrew Ilyas and Kevin Kwok
+2:45 - Contributed Demo: *[Synthesizing Robust Adversarial Examples](papers/mlsec17_paper_50.pdf)* by	Anish Athalye, Logan Engstrom, Andrew Ilyas and Kevin Kwok
 
 3:00 - Poster Session/Break
 
@@ -166,9 +166,45 @@ Session Chair: Bo Li
 3:45 - Invited Talk #5: *Privacy-preserving Mechanisms for Correlated Data* by 
 [Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/)
 
-4:10 - Invited Talk #6: *Towards Verification of Deep Neural Networks* by [Clark Barrett](http://theory.stanford.edu/~barrett/)
+4:10 - Invited Talk #6: *Towards Verification of Deep Neural Networks* by [Clark Barrett](http://theory.stanford.edu/~barrett/) [[Slides]](Clark_Barrett_NIPSWorkshop.pptx)
 
-4:40 - Invited Talk #7: *Adversarially Robust Optimization and Generalization* by [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/)
+4:40 - Invited Talk #7: *Adversarially Robust Optimization and Generalization* by [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/) [[Slides]](slides/Ludwig_Schmidt_security.pdf)
+
+# List of contributed posters
+
+* *[DeepXplore: Automated Whitebox Testing of Deep Learning Systems](papers/mlsec17_paper_1.pdf)* by Kexin Pei, Yinzhi Cao, Junfeng Yang and Suman Jana
+
+* *[Verifying Properties of Binarized Deep Neural Networks](papers/mlsec17_paper_9.pdf)* by Nina Narodytska, Shiva Kasiviswanathan, Leonid Ryzhyk, Mooly Sagiv and Toby Walsh
+
+* *[Cascade Adversarial Machine Learning Regularized with a Unified Embedding](papers/mlsec17_paper_12.pdf)* by Taesik Na, Jong Hwan Ko and Saibal Mukhopadhyay
+
+* *[Interpretation of Neural Networks is Fragile](papers/mlsec17_paper_18.pdf)* by Amirata Ghorbani, Abubaka Abid and James Zou
+
+* *[PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples](papers/mlsec17_paper_20.pdf)* by Yang Song, Taesup Kim, Sebastian Nowozin, Stefano Ermon and Nate Kushman
+
+* *[Thermometer Encoding: One Hot way to resist Adversarial Examples](papers/mlsec17_paper_26.pdf)* by Jacob Buckman, Aurko Roy, Colin Raffel and Ian Goodfellow
+
+* *[Adversarial Patch](papers/mlsec17_paper_27.pdf)* by Tom B Brown, Dandelion Mané, Aurko Roy, Martin Abadi and Justin Gilmer
+
+* *[Distributionally Robust Deep Learning as a Generalization of Adversarial Training](papers/mlsec17_paper_30.pdf)* by Matthew Staib and Stefanie Jegelka
+
+* *[Certifiable Distributional Robustness with Principled Adversarial Training](papers/mlsec17_paper_34.pdf)* by Aman Sinha, Hongseok Namkoong and John Duchi
+
+* *[Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation](papers/mlsec17_paper_40.pdf)* by Matthias Hein and Maksym Andriushchenko
+
+* *[Query-limited Black-box Attacks to Classifiers](papers/mlsec17_paper_46.pdf)* by Fnu Suya, Yuan Tian, David Evans and Paolo Papotti
+
+* *[ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models](papers/mlsec17_paper_47.pdf)* by Pin-Yu Chen, Huan Zhang, Yash Sharma, Jinfeng Yi and Cho-Jui Hsieh
+
+* *[DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](papers/mlsec17_paper_49.pdf)* by Min Du, Feifei Li, Guineng Zheng and Vivek Srikumar
+
+* *[Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](papers/mlsec17_paper_52.pdf)* by Weilin Xu, David Evans and Yanjun Qi
+
+* *[JPEG-resistant Adversarial Images](papers/mlsec17_paper_54.pdf)* by Richard Shin and Dawn Song
+
+* *[A Rotation and a Translation Suffice: Fooling CNNs with Simple Transformations](papers/mlsec17_paper_55.pdf)* by Logan Engstrom, Ludwig Schmidt, Dimitris Tsipras and Aleksander Madry
+
+* *[A Neural-Symbolic Approach to Design of CAPTCHA](papers/mlsec17_paper_56.pdf)* by Qiuyuan Huang, Paul Smolensky, Xiaodong He, Li Deng and Dapeng Wu
 
 # Organizer
 
