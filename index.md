@@ -156,7 +156,7 @@ Session Chair: Nicolas Papernot
 
 2:15 - Invited Talk #5: *Games People Play (With Bots)* by [Donald Brinkman](https://www.microsoft.com/en-us/research/people/donaldbr/)
 
-2:45 - Contributed Demo: *[Synthesizing Robust Adversarial Examples](papers/mlsec17_paper_50.pdf)* by	Anish Athalye, Logan Engstrom, Andrew Ilyas and Kevin Kwok
+2:45 - Contributed Demo: *[Synthesizing Robust Adversarial Examples](papers/mlsec17_paper_50.pdf)* by	Anish Athalye, Logan Engstrom, Andrew Ilyas and Kevin Kwok [[Slides]](slides/Andrew_Synthesizing_Robust_Adversarial_Examples.pdf)
 
 3:00 - Poster Session/Break
 
