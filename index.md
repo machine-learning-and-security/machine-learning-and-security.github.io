@@ -95,7 +95,7 @@ Session Chair: Chang Liu
 
 9:15 - Invited Talk #1: *AI Applications in Security at Ant Financial* by [Alan Qi](https://www.cs.purdue.edu/homes/alanqi/)
 
-9:45 - Contributed Talk #1: *A Word Graph Approach for Dictionary Detection and Extraction in DGA Domain Names* by Mayana Pereira, Shaun Coleman, Martine De Cock, Bin Yu and Anderson Nascimento
+9:45 - Contributed Talk #1: *A Word Graph Approach for Dictionary Detection and Extraction in DGA Domain Names* by Mayana Pereira, Shaun Coleman, Martine De Cock, Bin Yu and Anderson Nascimento [[Slides](slides/Mayana-final-of-NIPS-DDGA.pdf)]
 
 10:00 - Contributed Talk #2: *[Practical Machine Learning for Cloud Intrusion Detection](papers/mlsec17_paper_3.pdf)* by Ram Shankar Siva Kumar, Andrew Wicker and Matt Swann 
 [[Slides]](slides/ram-cloud-intrusion-detection.pptx)
@@ -165,7 +165,7 @@ Session Chair: Nicolas Papernot
 Session Chair: Bo Li
 
 3:45 - Invited Talk #5: *Privacy-preserving Mechanisms for Correlated Data* by 
-[Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/)
+[Kamalika Chaudhuri](http://cseweb.ucsd.edu/~kamalika/) [[Slides]](slides/Kamalika-MLSEC-NIPS-2017.pdf)
 
 4:10 - Invited Talk #6: *Towards Verification of Deep Neural Networks* by [Clark Barrett](http://theory.stanford.edu/~barrett/) [[Slides]](Clark_Barrett_NIPSWorkshop.pptx)
 
